@@ -12,13 +12,13 @@
 
 						<div class="carousel-inner">
 							<div class="carousel-item active">
-								<img class="d-block w-100" src="../../images/album-ex.jpg" alt="EX">
+								<img class="d-block w-100" src="/images/album-ex.jpg" alt="EX">
 							</div>
 							<div class="carousel-item">
-								<img class="d-block w-100" src="../../images/album-duh.png" alt="DUH!">
+								<img class="d-block w-100" src="/images/album-duh.png" alt="DUH!">
 							</div>
 							<div class="carousel-item">
-								<img class="d-block w-100" src="../../images/album-harmony-all-in.jpg" alt="Harmony: All In">
+								<img class="d-block w-100" src="/images/album-harmony-all-in.jpg" alt="Harmony: All In">
 							</div>
 						</div>
 
