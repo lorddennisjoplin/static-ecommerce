@@ -1,0 +1,20 @@
+[
+    {  
+        "id": 1,
+        "title": "Sad Song – Signed",
+        "description": "Sad Song is the seventh Korean language extended play (EP) by South Korean boy band P1Harmony. It was released on September 20, 2024, by FNC Entertainment. Purchase the signed 7-track album today.",
+        "image": "/images/album-sad-song-signed.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Officia Lightstick",
+        "description": "This product is available for purchase by residents of the seller's country/region. The policies regarding contract withdrawal, refunds, and payments from the seller's country/region will apply.",
+        "image": "/images/lightstick.png"
+    },
+    {
+        "id": 3,
+        "title": "Sad Song - Vinyl",
+        "description": "Sad Song is the seventh Korean language extended play (EP) by South Korean boy band P1Harmony. It was released on September 20, 2024, by FNC Entertainment. Purchase the vinyl version of this album today.",
+        "image": "/images/album-sad-song.png"
+    }
+]

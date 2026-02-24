@@ -1,19 +1,17 @@
 <script setup>
   import NavBar from './components/NavBar.vue'
-  import About from './components/About.vue'
-  import Projects from './components/Projects.vue'
-  import Tools from './components/Tools.vue'
-  import Contact from './components/Contact.vue'
+  import Hero from './components/Hero.vue'
+  import Carousel from './components/Carousel.vue'
+  import Cards from './components/Cards.vue'
   import Footer from './components/Footer.vue'
 </script>
 
 <template>
-  <div class="container mt-5 pt-1">
+  <div class="">
     <NavBar />
-    <About />
-    <Projects />
-    <Tools />
-    <Contact />
+    <Hero />
+    <Carousel />
+    <Cards />
   </div>
   <Footer />
 </template>
